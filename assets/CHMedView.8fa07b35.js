@@ -1,0 +1,1 @@
+import{_ as e,o as s,c as t,a as o}from"./index.731f4ac8.js";const c={},a={class:"about"},_=o("h1",null,"This is the CHMed page",-1),n=[_];function r(d,i){return s(),t("div",a,n)}const l=e(c,[["render",r]]);export{l as default};
